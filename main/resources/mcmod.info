@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tum",
+  "name": "The Useless Mod",
+  "description": "This mod is useless. (Actually it isn't but that's between you and me!)",
+  "version": "${1.0}",
+  "mcversion": "${1.12.1}",
+  "url": "http://www.youtube.com/ShoarmaKarma",
+  "updateUrl": "",
+  "authorList": ["ShoarmaKarma", "MC Name: Brian0105"],
+  "credits": "Did it by myself :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

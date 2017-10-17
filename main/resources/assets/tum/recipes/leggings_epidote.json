@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        "E E",
+        "E E"
+    ],
+    "key": {
+        "E": {
+            "item": "tum:ingot_epidote"
+        }
+    },
+    "result": {
+        "item": "tum:leggings_epidote"
+    }
+}

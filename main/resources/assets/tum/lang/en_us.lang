@@ -1,0 +1,19 @@
+#CreativeTab
+itemGroup.tumtab=TheUselessMod
+
+#Items
+item.ingot_epidote.name=Epidote
+item.axe_epidote.name=Epidote Axe
+item.hoe_epidote.name=Epidote Hoe
+item.sword_epidote.name=Epidote Sword
+item.shovel_epidote.name=Epidote Shovel
+item.pickaxe_epidote.name=Epidote Pickaxe
+item.helmet_epidote.name=Epidote Helmet
+item.chestplate_epidote.name=Epidote Chestplate
+item.leggings_epidote.name=Epidote Leggings
+item.boots_epidote.name=Epidote Boots
+
+#Blocks
+tile.block_epidote.name=Epidote Block
+tile.ore_epidote.name=Epidote Ore
+tile.ore_overworld_epidote.name=Epidote Ore

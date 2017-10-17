@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tum:block_epidote" }
+    }
+}

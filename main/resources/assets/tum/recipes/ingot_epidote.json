@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": 
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "tum:block_epidote"
+        }
+     },
+     
+     "result":
+     {
+        "item": "tum:ingot_epidote",
+        "count": 9
+     }
+ 
+}

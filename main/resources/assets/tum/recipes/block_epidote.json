@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "EEE",
+        "EEE",
+        "EEE"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "tum:ingot_epidote"
+        }
+     },
+     
+     "result":
+     {
+        "item": "tum:block_epidote"
+     }
+}
